@@ -1,4 +1,4 @@
-# Google Spreadsheet api tutorial
+Google Spreadsheet api tutorial
 ===================
 
 
